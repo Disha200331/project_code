@@ -1,4 +1,4 @@
-# project_code
+Heart Rate Monitoring System
 Heart rate monitor systems are devices that measure the heart's rate in beats per minute (BPM).They are commonly used in fitness,healthcare, and sports training to track cardiovascular health.
 Understanding how these systems work can help individuals optimize their workouts and monitor their health. Heartbeat device comes in numerous shapes and estimates and permits an instant approach to measurement the heartbeat. The heartbeat is measured in beats per minute that indicates the amount of times the heart is contracting or expanding in a minute. Medical heart rate monitoring used in hospitals is usually wired and usually multiple sensors are used. Consumer heart rate monitors are designed for everyday use and do not use wires to connect. A continuous record of body health parameters can be used to detect the disease in a more efficient manner.So this device is made to measure the heart rate.
 Problem Statements
